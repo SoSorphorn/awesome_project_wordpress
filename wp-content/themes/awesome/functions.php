@@ -5,6 +5,7 @@
   ==========================
   */
   function awesome_script_enqueue() {
+    wp_enqueue_style('content-category-label-style',get_template_directory_uri(). '/css/content.css', array(), '1.0.0', 'all');
     wp_enqueue_style('style_aboveportfolio',get_template_directory_uri(). '/css/above_portfolio.css', array(), '1.0.0', 'all');
     wp_enqueue_style('awesome_bootstrap_style', get_template_directory_uri() . '/vendor/bootstrap/css/bootstrap.min.css', array(), '1.0.0', 'all');
     wp_enqueue_style('awesome_font', get_template_directory_uri() . '/vendor/font-awesome/css/font-awesome.min.css', array(), '1.0.0', 'all');
