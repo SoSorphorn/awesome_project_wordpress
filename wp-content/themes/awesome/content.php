@@ -13,6 +13,7 @@
       <?php else: ?>
         <div class="col-xs-12">
           <?php the_content(); ?>
+          <?php the_content(); ?>
           <?php the_category(sprintf('<span class="label-primary"><a href="%s">', esc_url( get_permalink() )),'</a></span>' ); ?>
         </div>
       <?php endif; ?>
