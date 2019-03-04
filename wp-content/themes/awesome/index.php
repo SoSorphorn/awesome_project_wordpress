@@ -75,33 +75,6 @@
         </div>
       </div>
       <br>
-      <section class="inside-about">
-        <div class="container">
-         <div class="card-deck">
-            <div class="card text-center">
-                <div class="card-block">
-                    <i class="fa fa-4x fa-diamond text-primary mb-3 sr-icons"></i>
-                    <h3 class="mb-3">Study Templates</h3>
-                    <p class="text-muted mb-0">Our templates are updated regularly so they don't break.</p>
-                </div>
-            </div>
-            <div class="card text-center">
-                <div class="card-block">
-                  <i class="fa fa-4x fa-newspaper-o text-primary mb-3 sr-icons"></i>
-                  <h3 class="mb-3">Up to Date</h3>
-                  <p class="text-muted mb-0">We update dependencies to keep things fresh.</p>
-                </div>
-            </div>
-            <div class="card text-center">
-              <div class="card-block">
-                <i class="fa fa-4x fa-heart text-primary mb-3 sr-icons"></i>
-                <h3 class="mb-3">Made with Love</h3>
-                <p class="text-muted mb-0">You have to make your websites with love these days!</p>
-              </div>
-            </div>
-          </div>
-      </div>
-      </section>
     </section>
 
     <section class="p-0" id="gallery">
@@ -261,114 +234,95 @@
         </div>
       </div>
     </section>
-    <section id="teams">
-      <div class="container">
-        <div class="row">
-            <h1>Our
-              <br>
-              Creative Teams
-            </h1>
+    <section class="bg-light" id="teams">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading text-uppercase">Our Amazing Team</h2>
+          <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
         </div>
-        <div class="row">
-          <div class="col-sm-3">
-            <div class="team-member">
-              <img class="mx-auto rounded-circle" src="https://blackrockdigital.github.io/startbootstrap-agency/img/team/1.jpg" alt="" >
-              <h4 class = "text-center">Kay Garland</h4>
-              <p class="text-muted text-center">Lead Designer</p>
-              <ul class="list-inline social-buttons text-center">
-                <li class="list-inline-item">
+      </div>
+      <div class="row">
+        <div class="col-sm-4">
+          <div class="team-member">
+           <img class="mx-auto rounded-circle" src="https://blackrockdigital.github.io/startbootstrap-agency/img/team/1.jpg" alt="" >
+            <h4>Kay Garland</h4>
+            <p class="text-muted">Lead Designer</p>
+            <ul class="list-inline social-buttons">
+              <li class="list-inline-item">
                   <a href="#">
                     <i class="fa fa-twitter"></i>
                   </a>
                 </li>
-                <li class="list-inline-item">
-                  <a href="#">
-                    <i class="fa fa-facebook"></i>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#">
-                    <i class="fa fa-linkedin"></i>
-                  </a>
-                </li>
-              </ul>
-            </div>
+             <li class="list-inline-item">
+                <a href="#">
+                  <i class="fa fa-facebook"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="fa fa-linkedin"></i>
+                </a>
+              </li>
+            </ul>
           </div>
-           <div class="col-sm-3">
-            <div class="team-member">
-              <img class="mx-auto rounded-circle" src="https://blackrockdigital.github.io/startbootstrap-agency/img/team/1.jpg" alt="">
-              <h4 class = "text-center">Kay Garland</h4>
-              <p class="text-muted text-center">Lead Designer</p>
-              <ul class="list-inline social-buttons text-center">
-                <li class="list-inline-item">
-                  <a href="#">
-                    <i class="fa fa-twitter"></i>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#">
-                    <i class="fa fa-facebook"></i>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#">
-                    <i class="fa fa-linkedin"></i>
-                  </a>
-                </li>
-              </ul>
-            </div>
+        </div>
+        <div class="col-sm-4">
+          <div class="team-member">
+            <img class="mx-auto rounded-circle" src="https://blackrockdigital.github.io/startbootstrap-agency/img/team/1.jpg" alt="" >
+            <h4>Larry Parker</h4>
+            <p class="text-muted">Lead Marketer</p>
+            <ul class="list-inline social-buttons">
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="fa fa-twitter"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="fa fa-facebook-f"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="fa fa-linkedin"></i>
+                </a>
+              </li>
+            </ul>
           </div>
-          <div class="col-sm-3">
-            <div class="team-member">
-              <img class="mx-auto rounded-circle" src="https://blackrockdigital.github.io/startbootstrap-agency/img/team/2.jpg" alt="">
-              <h4 class = "text-center">Larry Parker</h4>
-              <p class="text-muted text-center">Lead Marketer</p>
-              <ul class="list-inline social-buttons text-center">
-                <li class="list-inline-item">
-                  <a href="#">
-                    <i class="fa fa-twitter"></i>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#">
-                    <i class="fa fa-facebook"></i>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#">
-                    <i class="fa fa-linkedin"></i>
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </div>
-          <div class="col-sm-3">
-            <div class="team-member">
-              <img class="mx-auto rounded-circle" src="https://blackrockdigital.github.io/startbootstrap-agency/img/team/3.jpg" alt="">
-              <h4 class = "text-center">Diana Pertersen</h4>
-              <p class="text-muted text-center">Lead Developer</p>
-              <ul class="list-inline social-buttons text-center">
-                <li class="list-inline-item">
-                  <a href="#">
-                    <i class="fa fa-twitter"></i>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#">
-                    <i class="fa fa-facebook"></i>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#">
-                    <i class="fa fa-linkedin"></i>
-                  </a>
-                </li>
-              </ul>
-            </div>
+        </div>
+        <div class="col-sm-4">
+          <div class="team-member">
+            <img class="mx-auto rounded-circle" src="https://blackrockdigital.github.io/startbootstrap-agency/img/team/1.jpg" alt="" >
+            <h4>Diana Pertersen</h4>
+            <p class="text-muted">Lead Developer</p>
+            <ul class="list-inline social-buttons">
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="fa fa-twitter"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="fa fa-facebook-f"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="fa fa-linkedin"></i>
+                </a>
+              </li>
+            </ul>
           </div>
         </div>
       </div>
-    </section>
+      <div class="row">
+        <div class="col-lg-8 mx-auto text-center">
+          <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
+        </div>
+      </div>
+    </div>
+  </section>
     <section id="contact">
       <div class="container">
         <div class="row">
